@@ -4,13 +4,11 @@
 
 Sou apaixonado por resolver problemas lógicos e construir soluções de software estruturadas e eficientes. Atualmente no 2º período de Computação, tenho focado os meus estudos e projetos pessoais no ecossistema **Python**, com ênfase na criação de APIs REST, automação e boas práticas de engenharia (como testes automatizados e modularização de código).
 
-Estou ativamente em busca de uma oportunidade de **estágio em desenvolvimento de software** onde eu possa gerar impacto prático, aplicar meus conhecimentos em arquitetura de dados e evoluir tecnicamente junto a uma equipe experiente! 🚀
+Estou ativamente em busca de uma oportunidade de **estágio em desenvolvimento de software** onde eu possa gerar impacto prático, aplicar meus conhecimentos em arquitetura de dados e evoluir tecnicamente junto a uma equipe experiente! 
 
 ### Tecnologias e Ferramentas
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,flask,sqlite,git,github,vscode" alt="Tecnologias" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=py,c,flask,sqlite,git,github,vscode,&theme=light)](https://skillicons.dev)
 
 <br>
 
@@ -52,13 +50,11 @@ Estou ativamente em busca de uma oportunidade de **estágio em desenvolvimento d
 
 I am passionate about solving logical problems and building structured, efficient software solutions. Currently in my 2nd period of Computer Science, I have focused my studies and personal projects on the **Python** ecosystem, emphasizing the creation of REST APIs, automation, and software engineering best practices (such as automated testing and modular design).
 
-I am actively looking for a **software development internship** where I can make a practical impact, apply my knowledge in data architecture, and grow technically alongside an experienced team! 🚀
+I am actively looking for a **software development internship** where I can make a practical impact, apply my knowledge in data architecture, and grow technically alongside an experienced team! 
 
 ### Technologies & Tools
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,flask,sqlite,git,github,vscode" alt="Technologies" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=py,c,flask,sqlite,git,github,vscode,&theme=light)](https://skillicons.dev)
 
 <br>
 
