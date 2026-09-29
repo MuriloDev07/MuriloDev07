@@ -8,11 +8,13 @@ Estou ativamente em busca de uma oportunidade de **estágio em desenvolvimento d
 
 ### Tecnologias e Ferramentas
 
-*   **Linguagens:** Python (POO avançada, tratamento de exceções) e C (Estruturas de Dados, alocação dinâmica)
-*   **Back-end & APIs:** Flask, arquitetura RESTful
-*   **Bancos de Dados:** SQLite (Modelagem relacional e integridade de dados)
-*   **Qualidade e Testes:** Pytest (Testes unitários e de integração)
-*   **Versionamento:** Git e GitHub
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,flask,sqlite,git,github,vscode" alt="Tecnologias" />
+</div>
+
+<br>
+
+> **Foco principal:** Conhecimentos sólidos em POO, Estruturas de Dados, modelação relacional e testes automatizados.
 
 ### Projetos em Destaque
 
@@ -24,8 +26,20 @@ Estou ativamente em busca de uma oportunidade de **estágio em desenvolvimento d
 
 ### Como me encontrar
 
-*   **LinkedIn:** [Murilo Costa](https://www.linkedin.com/in/murilo-costa-1bb28a435/) 
-*   **E-mail:** murilodev07@gmail.com
+<div align="left">
+  <a href="https://www.linkedin.com/in/murilo-costa-1bb28a435/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:murilodev07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="http://lattes.cnpq.br/6147409224511675" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-00427E?style=for-the-badge&logoColor=white" alt="Lattes" />
+  </a>
+  <a href="https://www.instagram.com/muurilo.costa/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 <br>
 
@@ -42,11 +56,13 @@ I am actively looking for a **software development internship** where I can make
 
 ### Technologies & Tools
 
-*   **Languages:** Python (Advanced OOP, Exception Handling) and C (Data Structures, Dynamic Allocation)
-*   **Back-end & APIs:** Flask, RESTful architecture
-*   **Databases:** SQLite (Relational modeling and data integrity)
-*   **Quality & Testing:** Pytest (Unit and integration testing)
-*   **Version Control:** Git & GitHub
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,flask,sqlite,git,github,vscode" alt="Technologies" />
+</div>
+
+<br>
+
+> **Main focus:** Solid knowledge in OOP, Data Structures, relational modeling, and automated testing.
 
 ### Featured Projects
 
@@ -58,7 +74,19 @@ I am actively looking for a **software development internship** where I can make
 
 ### How to reach me
 
-*   **LinkedIn:** [Murilo Costa](https://www.linkedin.com/in/murilo-costa-1bb28a435/)
-*   **Email:** murilodev07@gmail.com
+<div align="left">
+  <a href="https://www.linkedin.com/in/murilo-costa-1bb28a435/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:murilodev07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="http://lattes.cnpq.br/6147409224511675" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-00427E?style=for-the-badge&logoColor=white" alt="Lattes" />
+  </a>
+  <a href="https://www.instagram.com/muurilo.costa/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 </details>
