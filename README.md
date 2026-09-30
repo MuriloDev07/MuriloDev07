@@ -39,6 +39,11 @@ Estou ativamente em busca de uma oportunidade de **estágio em desenvolvimento d
   </a>
 </div>
 
+### Idiomas
+
+* 🇧🇷 **Português:** Nativo
+* 🇺🇸 **Inglês:** Intermediário (Foco em leitura técnica e documentação)
+
 <br>
 
 <details>
@@ -84,5 +89,10 @@ I am actively looking for a **software development internship** where I can make
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
+
+### Languages
+
+* 🇧🇷 **Portuguese:** Native
+* 🇺🇸 **English:** Intermediate (Focused on technical reading and documentation)
 
 </details>
