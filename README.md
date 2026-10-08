@@ -2,13 +2,20 @@
 
 **Estudante de Ciência da Computação (UEPB) | Desenvolvedor Back-end**
 
-Sou apaixonado por resolver problemas lógicos e construir soluções de software estruturadas e eficientes. Atualmente no 2º período de Computação, tenho focado os meus estudos e projetos pessoais no ecossistema **Python** e na consolidação de base em **C**, com ênfase na criação de APIs REST, aplicações CLI interativas, automação e boas práticas de engenharia (como testes automatizados e modularização de código).
+Sou apaixonado por resolver problemas lógicos e construir soluções de software estruturadas e eficientes. Atualmente no 2º período de Computação, tenho focado os meus estudos e projetos pessoais no ecossistema **Python** e na consolidação de base em **C**, com ênfase na criação de APIs REST, aplicações CLI interativas, desenvolvimento em ambiente **Linux (Fedora)**, automação e boas práticas de engenharia (como testes automatizados e modularização de código).
 
-Estou ativamente em busca de uma oportunidade de **estágio em desenvolvimento de software** onde eu possa gerar impacto prático, aplicar meus conhecimentos em arquitetura de dados e evoluir tecnicamente junto a uma equipe experiente! 
+Estou ativamente em busca de uma oportunidade de **estágio em desenvolvimento de software** onde eu possa gerar impacto prático, aplicar meus conhecimentos em arquitetura de dados e evoluir tecnicamente junto a uma equipe experiente!
 
 ### Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,flask,sqlite,git,github,vscode,&theme=light)](https://skillicons.dev)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuriloDev07&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="Estatísticas do Murilo" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDev07&layout=compact&theme=transparent&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,flask,sqlite,linux,bash,git,github,vscode&theme=light" alt="My Skills" />
+  </a>
+</div
 
 <br>
 
@@ -20,7 +27,7 @@ Estou ativamente em busca de uma oportunidade de **estágio em desenvolvimento d
     API desenvolvida do zero para gerenciar o estoque de um negócio físico real. Arquitetura isolada em módulos (rotas, repositórios e conexão com banco) em Flask e SQLite. Alta confiabilidade garantida por uma suíte de testes automatizados com Pytest cobrindo validações de entrada e rotas CRUD completas.
 
 *   **[Sistema de Cadastro de Alunos](https://github.com/MuriloDev07/Sistema-de-Cadastro-de-Alunos)**
-    Aplicação de linha de comandos (CLI) desenvolvida integralmente em C para gestão acadêmica. O projeto foca em arquitetura modularizada (separação de lógica de negócios, interfaces e manipulação de arquivos `.txt` para persistência de dados) e utiliza **Make** para automação da compilação.
+    Aplicação de linha de comandos (CLI) desenvolvida integralmente em C para gestão acadêmica. O projeto foca em arquitetura modularizada (separação de lógica de negócios, interfaces e manipulação de arquivos `.txt` para persistência de dados) e utiliza **Make** para automação da compilação em ambiente Linux.
 
 *   **Verificador de Receitas Médicas com OCR**
     Sistema acadêmico em equipe para automatizar a leitura de receitas. Atuei diretamente no back-end arquitetando a lógica de validação de credenciais médicas (CRM/UF). Cruzei dados extraídos por Visão Computacional (OpenCV e Tesseract) com um banco relacional, implementando tratativas robustas para lidar com artefatos e falhas de leitura do OCR.
@@ -44,8 +51,8 @@ Estou ativamente em busca de uma oportunidade de **estágio em desenvolvimento d
 
 ### Idiomas
 
-* 🇧🇷 **Português:** Nativo
-* 🇺🇸 **Inglês:** Intermediário (Foco em leitura técnica e documentação)
+- 🇧🇷 **Português:** Nativo
+- 🇺🇸 **Inglês:** Intermediário (Foco em leitura técnica e documentação)
 
 <br>
 
@@ -56,13 +63,20 @@ Estou ativamente em busca de uma oportunidade de **estágio em desenvolvimento d
 
 **Computer Science Student (UEPB) | Back-end Developer**
 
-I am passionate about solving logical problems and building structured, efficient software solutions. Currently in my 2nd period of Computer Science, I have focused my studies and personal projects on the **Python** ecosystem and building a solid foundation in **C**, emphasizing the creation of REST APIs, interactive CLI applications, automation, and software engineering best practices (such as automated testing and modular design).
+I am passionate about solving logical problems and building structured, efficient software solutions. Currently in my 2nd period of Computer Science, I have focused my studies and personal projects on the **Python** ecosystem and building a solid foundation in **C**, emphasizing the creation of REST APIs, interactive CLI applications, development in a **Linux (Fedora)** environment, automation, and software engineering best practices (such as automated testing and modular design).
 
-I am actively looking for a **software development internship** where I can make a practical impact, apply my knowledge in data architecture, and grow technically alongside an experienced team! 
+I am actively looking for a **software development internship** where I can make a practical impact, apply my knowledge in data architecture, and grow technically alongside an experienced team!
 
 ### Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,flask,sqlite,git,github,vscode,&theme=light)](https://skillicons.dev)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuriloDev07&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="Estatísticas do Murilo" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDev07&layout=compact&theme=transparent&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,flask,sqlite,linux,bash,git,github,vscode&theme=light" alt="My Skills" />
+  </a>
+</div
 
 <br>
 
@@ -74,9 +88,9 @@ I am actively looking for a **software development internship** where I can make
     An API built from scratch to manage the inventory of a real physical business. The architecture is modularized (routes, repositories, and database connection) using Flask and SQLite. High reliability is ensured by an automated test suite with Pytest covering input validations and full CRUD endpoints.
 
 *   **[Student Registration System - CLI](https://github.com/MuriloDev07/Sistema-de-Cadastro-de-Alunos)**
-    A Command-Line Interface (CLI) application built entirely in C for academic management. The project focuses on a modularized architecture (separating business logic, interfaces, and `.txt` file manipulation for data persistence) and utilizes **Make** for build automation.
+    A Command-Line Interface (CLI) application built entirely in C for academic management. The project focuses on a modularized architecture (separating business logic, interfaces, and `.txt` file manipulation for data persistence) and utilizes **Make** for build automation in a Linux environment.
 
-*  **OCR Medical Prescription Verifier**
+*   **OCR Medical Prescription Verifier**
     A team-based academic project to automate the reading of medical prescriptions. I worked directly on the back-end, architecting the validation logic for medical credentials. I cross-referenced data extracted via Computer Vision (OpenCV and Tesseract) with a relational database, implementing robust exception handling for OCR artifacts and read failures.
 
 ### How to reach me
@@ -98,7 +112,7 @@ I am actively looking for a **software development internship** where I can make
 
 ### Languages
 
-* 🇧🇷 **Portuguese:** Native
-* 🇺🇸 **English:** Intermediate (Focused on technical reading and documentation)
+- 🇧🇷 **Portuguese:** Native
+- 🇺🇸 **English:** Intermediate (Focused on technical reading and documentation)
 
 </details>
