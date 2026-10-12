@@ -29,7 +29,7 @@ Estou ativamente em busca de uma oportunidade de **estágio em desenvolvimento d
 *   **[Sistema de Cadastro de Alunos](https://github.com/MuriloDev07/Sistema-de-Cadastro-de-Alunos)**
     Aplicação de linha de comandos (CLI) desenvolvida integralmente em C para gestão acadêmica. O projeto foca em arquitetura modularizada (separação de lógica de negócios, interfaces e manipulação de arquivos `.txt` para persistência de dados) e utiliza **Make** para automação da compilação em ambiente Linux.
 
-*   **Verificador de Receitas Médicas com OCR**
+*   **[Verificador de Receitas Médicas com OCR](https://github.com/bcord1/projeto_algoritmos)**
     Sistema acadêmico em equipe para automatizar a leitura de receitas. Atuei diretamente no back-end arquitetando a lógica de validação de credenciais médicas (CRM/UF). Cruzei dados extraídos por Visão Computacional (OpenCV e Tesseract) com um banco relacional, implementando tratativas robustas para lidar com artefatos e falhas de leitura do OCR.
 
 ### Como me encontrar
