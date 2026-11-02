@@ -8,13 +8,10 @@ Estou ativamente em busca de uma oportunidade de **estágio em desenvolvimento d
 
 ### Tecnologias e Ferramentas
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,flask,sqlite,postgres,docker,linux,bash,git,github,vscode&theme=light" alt="My Skills" />
-  </a>
-</div>
-
-<br>
+| Linguagens & Frameworks / Bancos de Dados | Infraestrutura, DevOps & Versionamento |
+| :---: | :---: |
+| **Linguagens & Frameworks**<br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,c,flask&theme=light" alt="Linguagens e Frameworks" /></a> | **Infraestrutura & DevOps**<br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,bash&theme=light" alt="Infraestrutura e DevOps" /></a> |
+| **Bancos de Dados**<br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=light" alt="Bancos de Dados" /></a> | **Ferramentas & Versionamento**<br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Ferramentas e Versionamento" /></a> |
 
 > **Foco principal:** Conhecimentos sólidos em POO, Estruturas de Dados, modelagem relacional (PostgreSQL), conteinerização (Docker), testes automatizados e manipulação de arquivos.
 
