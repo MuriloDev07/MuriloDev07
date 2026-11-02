@@ -63,13 +63,10 @@ I am actively looking for a **software development internship**, as well as invo
 
 ### Technologies & Tools
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,flask,sqlite,postgres,docker,linux,bash,git,github,vscode&theme=light" alt="My Skills" />
-  </a>
-</div>
-
-<br>
+| Languages & Frameworks / Databases | Infrastructure, DevOps & Version Control |
+| :---: | :---: |
+| **Languages & Frameworks**<br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,c,flask&theme=light" alt="Languages and Frameworks" /></a> | **Infrastructure & DevOps**<br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,bash&theme=light" alt="Infrastructure and DevOps" /></a> |
+| **Databases**<br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=light" alt="Databases" /></a> | **Tools & Version Control**<br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Tools and Version Control" /></a> |
 
 > **Main focus:** Solid knowledge in OOP, Data Structures, relational modeling (PostgreSQL), containerization (Docker), automated testing, and file manipulation.
 
